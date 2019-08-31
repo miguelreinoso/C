@@ -4,7 +4,7 @@
 #include <stdio.h> // stdio = standard in out
 
 int main() {
-   	printf("int: %d \n", sizeof(int)); // integer
+    printf("int: %d \n", sizeof(int)); // integer
     printf("float: %d \n", sizeof(float)); // float
     printf("double: %d \n", sizeof(double)); // double-precision floating point value
     printf("char: %d \n", sizeof(char)); // single character
